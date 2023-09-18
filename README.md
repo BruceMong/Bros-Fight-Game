@@ -1,9 +1,8 @@
-# Bros-Fight-Game
-# Shoot 'Em Up Arcade Game (2016)
+# BrosFight  - Shoot 'Em Up Arcade Game (2016)
 
 ## Project Description
 
-Welcome to my very first programming project created back in 2016. This is a stationary "shoot 'em up" video game designed to be played in two-player multiplayer mode.
+Welcome to my first programming project created back in 2016. This is a stationary "shoot 'em up" video game designed to be played in two-player multiplayer mode. Please note that since this was my first project, the code contains many errors and can surely be optimized further.
 
 ## Features
 
@@ -18,6 +17,10 @@ Players have various abilities at their disposal to enhance the gaming experienc
 - **Single shot**: A basic attack to combat opponents.
 - **Laser beam**: A powerful attack that recharges in 5 seconds.
 - **Dash**: A fast movement ability with a recharge time of 2.5 seconds.
+
+## Demo Video
+
+<iframe width="560" height="315" src="https://youtu.be/BOvx-YrbHqs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Game Controls
 
@@ -43,4 +46,3 @@ For an optimal experience, use an AZERTY keyboard. Here are the controls to play
 ## Conclusion
 
 Thank you for checking out my first programming project. Feel free to explore the code and enjoy the game!
-
